@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cakicaki
+- 👋 Hi, I’m @caglarashin-AI
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on pyhton and java
